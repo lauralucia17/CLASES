@@ -1,0 +1,23 @@
+06-09-2022
+
+Hoy se tocarán los temas de condicionales y ciclos.
+
+------------------ CONDICONAL IF---------------
+
+Cumple con la operación lógica  si => entonces.
+Su la condición es verdadera. Las sentencias se ejecutan.
+En caso contrario (condición es falsa) => Las sentencias se ignoran
+
+if <condicion>:
+    <sentencias>
+    <sentencias>
+    <sentencias>
+    ....
+
+
+if <condicion>:
+    <sentencias>
+elif <condicion>:
+    <sentencia>
+else:
+    <sentencias restantes>
